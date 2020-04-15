@@ -1,0 +1,13 @@
+.post{
+    background-color: #15202b;
+    color: white;
+    width: 60%;
+    margin-bottom: 30px;
+}
+.top-panel{
+    display: flex;
+}
+
+.post-content-img{
+    width: 100%;
+}

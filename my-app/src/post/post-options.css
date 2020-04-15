@@ -1,0 +1,10 @@
+.post-options{
+    padding: 20px 20px;
+    color: #4b5965;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5rem;
+}
+.icon{
+    padding-right: 10px;
+}

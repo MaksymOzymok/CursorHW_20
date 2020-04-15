@@ -1,0 +1,28 @@
+.user{
+    padding-top: 1%;
+    padding-left: 1%;
+    display: flex;
+    align-items: center;
+}
+.user-photo{
+    height: 110px;
+    border-radius: 100%;
+    width: 110px;
+}
+.user-name{
+    min-width: 250px;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 1%;
+}
+.user-nickname{
+    font-size: 1.2rem;
+    color: #4b5965;
+    margin-top: 1%;
+    margin-right: 80px;
+}
+.verified-icon{
+    margin-top: 1%;
+    font-size: 1.3rem;
+    padding-left: 10px;
+}

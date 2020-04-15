@@ -1,0 +1,12 @@
+.post-content{
+padding-left: 10%;
+    padding-right: 5%;
+}
+.post-content-text{
+    font-size: 1.5rem;
+    margin: 0 0;
+    padding-bottom: 2%;
+}
+.post-content-img{
+    border-radius: 20px;
+}
